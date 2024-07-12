@@ -1,0 +1,4 @@
+lapiz 50 0.5
+cuaderno 60 2.5
+tachuelas 100 0.3
+tijeras 12 1.0
